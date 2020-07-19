@@ -54,13 +54,13 @@ input[type=button] {
 
 #menu {
     position: relative;
-    height: 5vh; 
-    background: #ddd;
+    height: 3vh; 
+    background: #fff;
 }
 
 #content {
     position: relative;
-    height: 90vh;
+    height: 94vh;
     background-color: #fff;
 
     top: 0;
@@ -101,6 +101,6 @@ input[type=button] {
 
 #footer {
     position: relative;
-    height: 5vh;
-    background: #ddd;
+    height: 3vh;
+    background: #fff;
 }
